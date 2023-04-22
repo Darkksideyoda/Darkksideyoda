@@ -1,4 +1,4 @@
-<h3 align="center">  <img src="https://raw.githubusercontent.com/Darkksideyoda/tauri-react-threefiber-vite/master/src/assets/darkramlogoreal.png" alt="bash" width="150" height="150"/></h3>
+<h3 align="center">  <img src="https://raw.githubusercontent.com/Darkksideyoda/tauri-react-threefiber-vite/master/src/assets/darkramlogoreal.png" alt="bash" width="170" height="170"/></h3>
 <h3 align="center">Computer Science Nomad</h3>
 
 <h3 align="center">
