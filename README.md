@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bahtiyar</h1>
+
+<img src="https://raw.githubusercontent.com/Darkksideyoda/tauri-react-threefiber-vite/master/src/assets/darkramlogoreal.png" alt="bash" width="40" height="40"/> 
 <h3 align="center">Computer Science Nomad</h3>
 
 
